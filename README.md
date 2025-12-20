@@ -12,9 +12,9 @@ I am a Computer and Communication Engineering student. Currently building skills
 
 ### Connect
 <p>
-<a href="www.linkedin.com/in/shailjajha">LinkedIn</a> ·
-<a href="mailto:shailjajha0410@gmail.com">Email</a> ·
-<a href="https://github.com/shailjajha0410">GitHub</a>
+  <a href="https://www.linkedin.com/in/shailjajha" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
+  <a href="mailto:shailjajha0410@gmail.com">Email</a> ·
+  <a href="https://github.com/shailjajha0410" target="_blank" rel="noopener noreferrer">GitHub</a>
 </p>
 
 ---
