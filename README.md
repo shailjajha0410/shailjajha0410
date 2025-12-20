@@ -1,39 +1,49 @@
-<!-- ===================== -->
-<!-- PROFILE INTRO BANNER -->
-<!-- ===================== -->
+<svg width="1200" height="220" viewBox="0 0 1200 220"
+     xmlns="http://www.w3.org/2000/svg">
 
-<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0f2027;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#203a43;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2c5364;stop-opacity:1" />
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="200" fill="url(#grad)" />
+  <rect width="1200" height="220" fill="url(#bg)" />
 
-  <text x="50%" y="90" text-anchor="middle"
-        font-size="42"
+  <text x="600" y="95"
+        text-anchor="middle"
+        font-size="44"
         fill="#ffffff"
         font-family="Arial, Helvetica, sans-serif"
-        font-weight="bold">
+        font-weight="700">
     Shailja Jha
   </text>
 
-  <text x="50%" y="135" text-anchor="middle"
+  <text x="600" y="140"
+        text-anchor="middle"
         font-size="18"
-        fill="#e0e0e0"
+        fill="#dcdcdc"
         font-family="Arial, Helvetica, sans-serif">
     Computer & Communication Engineering Undergraduate
   </text>
+
 </svg>
+
+![Profile Banner](banner.svg)
+
+---
+
+<h1 align="center">Shailja Jha</h1>
+<p align="center">
+Computer & Communication Engineering Undergraduate
+</p>
 
 ---
 
 ## Professional Summary
 
-I am a Computer and Communication Engineering student currently building a strong foundation in core computer science concepts. I am developing skills in C, Java, and Data Structures, with a growing interest in software development and problem solving. I focus on improving coding fundamentals through hands-on practice and academic projects.
+I am a Computer and Communication Engineering student currently building a strong foundation in core computer science concepts. I am developing skills in C, Java, and Data Structures, with a growing interest in software development and problem solving. I focus on strengthening my coding fundamentals through hands-on practice and academic coursework.
 
 ---
 
