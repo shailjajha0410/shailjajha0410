@@ -30,7 +30,7 @@ I am a Computer and Communication Engineering student. Currently building skills
 ### Education
 **B.Tech – Computer & Communication Engineering**  
 Manipal University Jaipur  
-Y2023-2027
+Years- 2023-2027
 
 
 ---
