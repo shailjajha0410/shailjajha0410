@@ -26,3 +26,9 @@
 <p align="center">
   <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shailjajha0410&theme=github_dark" />
 </p>
+
+<h2 align="center">🏆 LeetCode Stats</h2>
+
+<p align="center">
+  <img width="50%" src="https://leetcard.jacoblin.cool/ShailjaJha?theme=dark&font=Karma&ext=contest" />
+</p>
