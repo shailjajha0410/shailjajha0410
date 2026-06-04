@@ -30,7 +30,7 @@
 <h2 align="left">🏆 LeetCode Stats</h2>
 
 <p align="center">
-<img width="45%" src="https://leetcard.jacoblin.cool/ShailjaJha?theme=dark&font=Karma&ext=contest" />
+  <img src="./metrics.leetcode.svg" width="60%">
 </p>
 
 <h2 align="left">🌐 Let's Connect and Grow Together!</h2>
