@@ -35,8 +35,25 @@
 
 <h2 align="left">🌐 Let's Connect and Grow Together!</h2>
 
-<p align="center"><a href="www.linkedin.com/in/shailjajha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;<a href="https://leetcode.com/u/ShailjaJha/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>&nbsp;&nbsp;<a href="https://github.com/shailjajha0410"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shailjajha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  &nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/u/ShailjaJha/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  
+  &nbsp;&nbsp;
+  
+  <a href="https://github.com/shailjajha0410" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
+---
 ---
 
 ## ✨ Fun Facts
