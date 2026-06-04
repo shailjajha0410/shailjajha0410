@@ -1,43 +1,84 @@
-<h1 align="center">Shailja Jha</h1>
+
+<h1 align="center">Hi, I'm Shailja Jha! 👋</h1>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shailjajha0410.shailjajha0410&left_color=royalblue&right_color=black" />
+
+<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
+
 <p align="center">
-Computer & Communication Engineering Undergraduate
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,html,git,github,mysql,react,nodejs" alt="Skills and tools"/>
+  </a>
 </p>
 
----
-
-### Professional Summary
-I am a Computer and Communication Engineering student. Currently building skills in C, Java, and Data Structures, with a growing interest in software development and problem solving. I am actively working on improving my coding fundamentals and practical implementation skills through hands-on practice and academic projects.
-
----
-
-### Connect
-<p>
-  <a href="https://www.linkedin.com/in/shailjajha" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
-  <a href="mailto:shailjajha0410@gmail.com">Email</a> ·
-  <a href="https://github.com/shailjajha0410" target="_blank" rel="noopener noreferrer">GitHub</a>
+<p align="center">
+  MATLAB • Cisco Packet Tracer • AutoCAD • TinkerCAD
 </p>
 
----
+![GitHub Snake](https://raw.githubusercontent.com/shailjajha0410/shailjajha0410/refs/heads/output/github-snake-dark.svg)
 
-### Technical Skills
-- **Programming Languages:** C, Java, C++, MATLAB  
-- **Core Concepts:** Data Structures, Algorithms, OOP  
-- **Tools & Platforms:** Git, GitHub , Cisco Packet Tracer, AutoCad, TinkerCad
-- **Currently Learning:** Problem Solving, Clean Coding Practices
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
 
----
+    <!-- Left Column: Metrics -->
 
-### Education
-**B.Tech – Computer & Communication Engineering**  
-Manipal University Jaipur  
-Years- 2024-2028
+    <div style="flex: 1; max-width: 45%;">
 
+        <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/shailjajha0410/shailjajha0410/blob/main/github-metrics.svg">
 
----
+    </div>
 
-### Current Focus
-- Strengthening DSA fundamentals  
-- Writing clean, readable code  
-- Preparing for software development internships
+    <!-- Right Column -->
 
----
+    <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
+
+        <h3>🌐 Let's Connect and Grow Together!</h3>
+
+        <p>
+
+            <a href="https://www.linkedin.com/in/shailjajha/" target="_blank" style="text-decoration: none;">
+                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
+            </a>
+
+            <a href="mailto:shailjajha0410@gmail.com" target="_blank" style="text-decoration: none;">
+                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/gmail.svg" alt="Email">
+            </a>
+
+            <a href="https://leetcode.com/u/ShailjaJha/" target="_blank" style="text-decoration: none;">
+                <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" width="40">
+            </a>
+
+            <a href="https://github.com/shailjajha0410" target="_blank" style="text-decoration: none;">
+                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="GitHub">
+            </a>
+
+        </p>
+
+        <h3>✨ Fun Facts</h3>
+
+        <ul>
+            <li>Class Representative (CR).</li>
+            <li>Enjoy hackathons and tech events.</li>
+            <li>Interested in AI and software development.</li>
+            <li>Love travelling and exploring new places.</li>
+        </ul>
+
+        <h3>🧑‍💻 About Me</h3>
+
+        <p>
+            I'm a Computer & Communication Engineering undergraduate at Manipal University Jaipur with a strong interest in software development and problem solving.
+        </p>
+
+        <p>
+            Currently building my foundation in Java, Data Structures & Algorithms, and modern web technologies through hands-on practice and academic projects.
+        </p>
+
+        <p>
+            I enjoy exploring Artificial Intelligence and Software Engineering while continuously improving my technical, leadership, and communication skills.
+        </p>
+
+        <p>
+            As a Class Representative (CR), I enjoy collaborating with people, taking initiative, and contributing to meaningful projects and events.
+        </p>
+
+    </div>
+
