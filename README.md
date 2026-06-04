@@ -30,7 +30,7 @@
 <h2 align="left">🏆 LeetCode Stats</h2>
 
 <p align="center">
-  <img src="./metrics.leetcode.svg" width="60%">
+  <img src="./metrics.leetcode.svg" width="70%">
 </p>
 
 <h2 align="left">🌐 Let's Connect and Grow Together!</h2>
