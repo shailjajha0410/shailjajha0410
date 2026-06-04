@@ -19,9 +19,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shailjajha0410&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shailjajha0410&theme=github_dark" />
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shailjajha0410&theme=github_dark&utcOffset=5.5" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailjajha0410&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shailjajha0410&theme=github_dark" />
 </p>
