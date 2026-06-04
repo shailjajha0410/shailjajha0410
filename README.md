@@ -32,3 +32,11 @@
 <p align="center">
 <img width="40%" src="https://leetcard.jacoblin.cool/ShailjaJha?theme=dark&font=Karma&ext=contest" />
 </p>
+
+<h2 align="center">📊 Coding Stats</h2>
+
+<p align="center">
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shailjajha0410&theme=github_dark" />
+  
+  <img width="40%" src="https://leetcard.jacoblin.cool/ShailjaJha?theme=dark&font=Karma&ext=contest" />
+</p>
