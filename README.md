@@ -15,8 +15,7 @@
   MATLAB • Cisco Packet Tracer • AutoCAD • TinkerCAD
 </p>
 
-![GitHub Snake](https://raw.githubusercontent.com/shailjajha0410/shailjajha0410/refs/heads/output/github-snake-dark.svg)
-
+![GitHub Snake](https://raw.githubusercontent.com/shailjajha0410/shailjajha0410/output/github-snake-dark.svg)
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
 
     <!-- Left Column: Metrics -->
