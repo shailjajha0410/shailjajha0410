@@ -16,6 +16,19 @@
 </p>
 
 ![GitHub Snake](https://raw.githubusercontent.com/shailjajha0410/shailjajha0410/output/github-snake-dark.svg)
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shailjajha0410&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shailjajha0410&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailjajha0410&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
 
     <!-- Left Column: Metrics -->
