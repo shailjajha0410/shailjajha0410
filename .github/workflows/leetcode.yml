@@ -1,0 +1,23 @@
+name: LeetCode Metrics
+
+on:
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate LeetCode Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.leetcode.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          base: ""
+
+          plugin_leetcode: yes
+          plugin_leetcode_user: ShailjaJha
