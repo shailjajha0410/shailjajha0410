@@ -2,9 +2,15 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shailjajha0410.shailjajha0410&left_color=royalblue&right_color=black" />
 
+<table>
+<tr>
+<td width="60%">
+
 <h3>💡 Quote of the Day</h3>
 
-<img width="300" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<p align="left">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
+</p>
 
 Languages and Tools
 
