@@ -5,8 +5,7 @@
 ### 💡 Quote of the Day
 
 <!--QUOTE_START-->
-Loading...
-<!--QUOTE_END-->
+>
 
 Languages and Tools
 
