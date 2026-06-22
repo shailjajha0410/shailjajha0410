@@ -2,6 +2,14 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shailjajha0410.shailjajha0410&left_color=royalblue&right_color=black" />
 
+### 💡 Quote of the Day
+
+<!--QUOTE_START-->
+Loading...
+<!--QUOTE_END-->
+
+Languages and Tools
+
 <h3 align="center">🛠️ Languages and Tools</h3>
 
 <p align="center">
