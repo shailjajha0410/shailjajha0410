@@ -1,0 +1,41 @@
+name: Update Quote
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get Random Quote
+        run: |
+          QUOTE=$(curl -s https://api.quotable.io/random | jq -r '.content')
+          echo "$QUOTE" > quote.txt
+
+      - name: Update README
+        run: |
+          awk '
+          /<!--QUOTE_START-->/ {
+            print;
+            getline;
+            while ($0 !~ /<!--QUOTE_END-->/) getline;
+            print ">" quote;
+          }
+          !/<!--QUOTE_START-->/ && !/<!--QUOTE_END-->/ {print}
+          ' quote="$(cat quote.txt)" README.md > temp.md
+
+          mv temp.md README.md
+
+      - name: Commit Changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "Updated quote" || exit 0
+          git push
