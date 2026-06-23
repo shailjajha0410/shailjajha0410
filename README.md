@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shailja Jha! 👋</h1>
+<h1 align="center">Hi, I'm Shailja Jha! </h1>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shailjajha0410.shailjajha0410&left_color=royalblue&right_color=black" />
 
