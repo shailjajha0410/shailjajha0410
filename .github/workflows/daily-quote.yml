@@ -1,0 +1,52 @@
+name: Quote of the Day
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Select Random Quote
+        run: |
+          shuf -n 1 quotes.txt > selected_quote.txt
+
+      - name: Update README
+        run: |
+          QUOTE=$(cat selected_quote.txt)
+
+          awk -v quote="$QUOTE" '
+          /<!--QUOTE_START-->/ {
+            print
+            print ""
+            print "> " quote
+            skip=1
+            next
+          }
+          /<!--QUOTE_END-->/ {
+            skip=0
+            print
+            next
+          }
+          !skip
+          ' README.md > README_NEW.md
+
+          mv README_NEW.md README.md
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          git commit -m "Update daily motivational quote" || exit 0
+          git push
