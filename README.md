@@ -7,7 +7,8 @@
 </p>
 
 <!--QUOTE_START-->
-Loading motivation...
+
+> Success starts with discipline.
 <!--QUOTE_END-->
 
 Languages and Tools
