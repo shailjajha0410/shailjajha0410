@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Success starts with discipline.
+> Success is not for the lazy.
 <!--QUOTE_END-->
 
 Languages and Tools
