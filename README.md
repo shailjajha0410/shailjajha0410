@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Success is not for the lazy.
+> Make yourself proud.
 <!--QUOTE_END-->
 
 Languages and Tools
