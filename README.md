@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Small progress is still progress.
+> Success starts with discipline.
 <!--QUOTE_END-->
 
 Languages and Tools
