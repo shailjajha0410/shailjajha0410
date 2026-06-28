@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Success starts with discipline.
+> Be better than you were yesterday.
 <!--QUOTE_END-->
 
 Languages and Tools
