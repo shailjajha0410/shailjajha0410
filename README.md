@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Success starts with discipline.
+> Keep showing up.
 <!--QUOTE_END-->
 
 Languages and Tools
