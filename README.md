@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Keep going. You're getting there.
+> Hard work compounds over time.
 <!--QUOTE_END-->
 
 Languages and Tools
