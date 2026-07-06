@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Hard work compounds over time.
+> Progress over perfection.
 <!--QUOTE_END-->
 
 Languages and Tools
