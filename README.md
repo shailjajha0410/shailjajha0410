@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Progress over perfection.
+> Done is better than perfect.
 <!--QUOTE_END-->
 
 Languages and Tools
