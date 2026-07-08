@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Done is better than perfect.
+> Success begins with self-belief.
 <!--QUOTE_END-->
 
 Languages and Tools
