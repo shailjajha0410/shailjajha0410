@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Success begins with self-belief.
+> Never stop learning.
 <!--QUOTE_END-->
 
 Languages and Tools
