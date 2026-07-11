@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Believe in the power of yet.
+> Small progress is still progress.
 <!--QUOTE_END-->
 
 Languages and Tools
