@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Small progress is still progress.
+> Consistency creates results.
 <!--QUOTE_END-->
 
 Languages and Tools
