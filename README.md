@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Action cures fear.
+> Consistency creates results.
 <!--QUOTE_END-->
 
 Languages and Tools
