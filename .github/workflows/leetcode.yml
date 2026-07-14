@@ -3,21 +3,29 @@ name: LeetCode Metrics
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: "0 3 * * *"
+
+permissions:
+  contents: write
+
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate LeetCode Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: metrics.leetcode.svg
+
           token: ${{ secrets.GITHUB_TOKEN }}
+
+          user: shailjajha0410
 
           base: ""
 
           plugin_leetcode: yes
           plugin_leetcode_user: ShailjaJha
+          plugin_leetcode_sections: solved
+
+          output_action: commit
