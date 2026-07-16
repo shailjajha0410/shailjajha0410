@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Believe you can and you're halfway there.
+> The harder you work, the luckier you get.
 <!--QUOTE_END-->
 
 Languages and Tools
