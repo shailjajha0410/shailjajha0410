@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> The harder you work, the luckier you get.
+> Little by little becomes a lot.
 <!--QUOTE_END-->
 
 Languages and Tools
