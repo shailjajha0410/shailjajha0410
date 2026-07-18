@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Little by little becomes a lot.
+> Your future is created by what you do today.
 <!--QUOTE_END-->
 
 Languages and Tools
