@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Your future is created by what you do today.
+> Winners focus on winning. Losers focus on winners.
 <!--QUOTE_END-->
 
 Languages and Tools
