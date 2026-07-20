@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Winners focus on winning. Losers focus on winners.
+> One day or day one. You decide.
 <!--QUOTE_END-->
 
 Languages and Tools
