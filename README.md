@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> One day or day one. You decide.
+> Don't stop until you're proud.
 <!--QUOTE_END-->
 
 Languages and Tools
