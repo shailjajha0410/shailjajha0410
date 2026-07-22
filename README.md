@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Don't stop until you're proud.
+> Make yourself proud.
 <!--QUOTE_END-->
 
 Languages and Tools
