@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Every day is a fresh start.
+> Your future is created by what you do today.
 <!--QUOTE_END-->
 
 Languages and Tools
