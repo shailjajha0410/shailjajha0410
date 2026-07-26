@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Your future is created by what you do today.
+> Believe you can and you're halfway there.
 <!--QUOTE_END-->
 
 Languages and Tools
