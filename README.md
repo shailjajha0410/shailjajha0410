@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Believe you can and you're halfway there.
+> Success starts with discipline.
 <!--QUOTE_END-->
 
 Languages and Tools
