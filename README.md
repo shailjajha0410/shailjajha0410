@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Success starts with discipline.
+> The expert in anything was once a beginner.
 <!--QUOTE_END-->
 
 Languages and Tools
