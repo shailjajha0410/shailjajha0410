@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> The expert in anything was once a beginner.
+> Keep moving forward.
 <!--QUOTE_END-->
 
 Languages and Tools
