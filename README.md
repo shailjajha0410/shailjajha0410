@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Keep moving forward.
+> Nothing changes if nothing changes.
 <!--QUOTE_END-->
 
 Languages and Tools
