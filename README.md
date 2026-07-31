@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Nothing changes if nothing changes.
+> Small progress is still progress.
 <!--QUOTE_END-->
 
 Languages and Tools
