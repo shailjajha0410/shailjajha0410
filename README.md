@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Small progress is still progress.
+> Every master was once a disaster.
 <!--QUOTE_END-->
 
 Languages and Tools
