@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Every master was once a disaster.
+> Winners focus on winning. Losers focus on winners.
 <!--QUOTE_END-->
 
 Languages and Tools
