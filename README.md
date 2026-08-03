@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Winners focus on winning. Losers focus on winners.
+> Believe in the power of yet.
 <!--QUOTE_END-->
 
 Languages and Tools
