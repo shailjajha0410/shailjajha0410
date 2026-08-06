@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Consistency creates results.
+> Make yourself proud.
 <!--QUOTE_END-->
 
 Languages and Tools
