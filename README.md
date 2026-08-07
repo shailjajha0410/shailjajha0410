@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Make yourself proud.
+> Work hard in silence, let success make the noise.
 <!--QUOTE_END-->
 
 Languages and Tools
