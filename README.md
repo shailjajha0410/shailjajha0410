@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Work hard in silence, let success make the noise.
+> Be fearless in the pursuit of what sets your soul on fire.
 <!--QUOTE_END-->
 
 Languages and Tools
