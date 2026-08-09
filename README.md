@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Be fearless in the pursuit of what sets your soul on fire.
+> You are capable of amazing things.
 <!--QUOTE_END-->
 
 Languages and Tools
