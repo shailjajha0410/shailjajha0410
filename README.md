@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Believe in the power of yet.
+> Consistency creates results.
 <!--QUOTE_END-->
 
 Languages and Tools
