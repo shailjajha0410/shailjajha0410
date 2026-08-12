@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Consistency creates results.
+> Do something today your future self will thank you for.
 <!--QUOTE_END-->
 
 Languages and Tools
