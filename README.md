@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Do something today your future self will thank you for.
+> Never stop learning.
 <!--QUOTE_END-->
 
 Languages and Tools
