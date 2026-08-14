@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Never stop learning.
+> Progress over perfection.
 <!--QUOTE_END-->
 
 Languages and Tools
