@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Progress over perfection.
+> Little by little becomes a lot.
 <!--QUOTE_END-->
 
 Languages and Tools
