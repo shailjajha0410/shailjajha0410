@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Believe you can and you're halfway there.
+> Be fearless in the pursuit of what sets your soul on fire.
 <!--QUOTE_END-->
 
 Languages and Tools
