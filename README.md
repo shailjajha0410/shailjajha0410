@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Be fearless in the pursuit of what sets your soul on fire.
+> Action cures fear.
 <!--QUOTE_END-->
 
 Languages and Tools
