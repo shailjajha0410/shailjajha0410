@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Success begins with self-belief.
+> Believe in the power of yet.
 <!--QUOTE_END-->
 
 Languages and Tools
