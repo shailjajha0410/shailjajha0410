@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Work hard in silence, let success make the noise.
+> Make today count.
 <!--QUOTE_END-->
 
 Languages and Tools
