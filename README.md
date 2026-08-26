@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Work hard in silence, let success make the noise.
+> Success begins with self-belief.
 <!--QUOTE_END-->
 
 Languages and Tools
