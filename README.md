@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Difficult roads often lead to beautiful destinations.
+> Discipline beats motivation.
 <!--QUOTE_END-->
 
 Languages and Tools
