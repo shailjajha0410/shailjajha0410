@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Discipline beats motivation.
+> Dreams don't work unless you do.
 <!--QUOTE_END-->
 
 Languages and Tools
