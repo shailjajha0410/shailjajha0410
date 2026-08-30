@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Dreams don't work unless you do.
+> Little by little becomes a lot.
 <!--QUOTE_END-->
 
 Languages and Tools
