@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Little by little becomes a lot.
+> Keep going. You're getting there.
 <!--QUOTE_END-->
 
 Languages and Tools
