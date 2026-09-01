@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Keep going. You're getting there.
+> Done is better than perfect.
 <!--QUOTE_END-->
 
 Languages and Tools
