@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Done is better than perfect.
+> Action cures fear.
 <!--QUOTE_END-->
 
 Languages and Tools
