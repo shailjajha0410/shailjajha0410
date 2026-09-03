@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Action cures fear.
+> Stay hungry. Stay foolish.
 <!--QUOTE_END-->
 
 Languages and Tools
