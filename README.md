@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Stay hungry. Stay foolish.
+> Never stop learning.
 <!--QUOTE_END-->
 
 Languages and Tools
