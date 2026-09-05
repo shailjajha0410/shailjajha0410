@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Never stop learning.
+> Believe in the power of yet.
 <!--QUOTE_END-->
 
 Languages and Tools
