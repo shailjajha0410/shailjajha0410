@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Action cures fear.
+> Keep showing up.
 <!--QUOTE_END-->
 
 Languages and Tools
