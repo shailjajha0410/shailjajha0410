@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Be fearless in the pursuit of what sets your soul on fire.
+> Every master was once a disaster.
 <!--QUOTE_END-->
 
 Languages and Tools
