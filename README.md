@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Every master was once a disaster.
+> Success is earned, not given.
 <!--QUOTE_END-->
 
 Languages and Tools
