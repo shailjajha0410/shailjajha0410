@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Success is earned, not given.
+> Work hard in silence, let success make the noise.
 <!--QUOTE_END-->
 
 Languages and Tools
