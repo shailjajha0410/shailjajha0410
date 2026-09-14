@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Work hard in silence, let success make the noise.
+> The expert in anything was once a beginner.
 <!--QUOTE_END-->
 
 Languages and Tools
