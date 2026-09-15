@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> The expert in anything was once a beginner.
+> Be better than you were yesterday.
 <!--QUOTE_END-->
 
 Languages and Tools
