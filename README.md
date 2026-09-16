@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Be better than you were yesterday.
+> Believe in the power of yet.
 <!--QUOTE_END-->
 
 Languages and Tools
