@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Believe in the power of yet.
+> Difficult roads often lead to beautiful destinations.
 <!--QUOTE_END-->
 
 Languages and Tools
