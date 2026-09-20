@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Work hard in silence, let success make the noise.
+> Do something today your future self will thank you for.
 <!--QUOTE_END-->
 
 Languages and Tools
