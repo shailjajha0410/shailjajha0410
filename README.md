@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Do something today your future self will thank you for.
+> Stay patient and trust the process.
 <!--QUOTE_END-->
 
 Languages and Tools
