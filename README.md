@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Stay patient and trust the process.
+> Keep going. You're getting there.
 <!--QUOTE_END-->
 
 Languages and Tools
