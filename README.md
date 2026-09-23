@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Keep going. You're getting there.
+> Believe you can and you're halfway there.
 <!--QUOTE_END-->
 
 Languages and Tools
