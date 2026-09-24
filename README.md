@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Believe you can and you're halfway there.
+> Work hard in silence, let success make the noise.
 <!--QUOTE_END-->
 
 Languages and Tools
