@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Keep showing up.
+> Keep moving forward.
 <!--QUOTE_END-->
 
 Languages and Tools
