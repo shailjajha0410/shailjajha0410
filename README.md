@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Keep moving forward.
+> Success is built when nobody is watching.
 <!--QUOTE_END-->
 
 Languages and Tools
