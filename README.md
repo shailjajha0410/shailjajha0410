@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Success is built when nobody is watching.
+> Make today count.
 <!--QUOTE_END-->
 
 Languages and Tools
