@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Make today count.
+> You are capable of amazing things.
 <!--QUOTE_END-->
 
 Languages and Tools
