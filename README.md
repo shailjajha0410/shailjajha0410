@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> You are capable of amazing things.
+> Be better than you were yesterday.
 <!--QUOTE_END-->
 
 Languages and Tools
