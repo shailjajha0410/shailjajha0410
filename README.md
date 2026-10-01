@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Be better than you were yesterday.
+> Consistency creates results.
 <!--QUOTE_END-->
 
 Languages and Tools
