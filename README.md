@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Believe in the power of yet.
+> Success is earned, not given.
 <!--QUOTE_END-->
 
 Languages and Tools
