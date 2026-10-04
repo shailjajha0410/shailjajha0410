@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Success is earned, not given.
+> Fall seven times, stand up eight.
 <!--QUOTE_END-->
 
 Languages and Tools
