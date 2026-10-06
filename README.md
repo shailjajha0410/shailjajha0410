@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Fall seven times, stand up eight.
+> Keep moving forward.
 <!--QUOTE_END-->
 
 Languages and Tools
