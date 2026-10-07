@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Keep moving forward.
+> Small progress is still progress.
 <!--QUOTE_END-->
 
 Languages and Tools
