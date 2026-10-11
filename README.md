@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Success starts with discipline.
+> Stay hungry. Stay foolish.
 <!--QUOTE_END-->
 
 Languages and Tools
