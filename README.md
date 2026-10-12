@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Stay hungry. Stay foolish.
+> The comeback is always stronger than the setback.
 <!--QUOTE_END-->
 
 Languages and Tools
