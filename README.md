@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> The comeback is always stronger than the setback.
+> Believe in the power of yet.
 <!--QUOTE_END-->
 
 Languages and Tools
