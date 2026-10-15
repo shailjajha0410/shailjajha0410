@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Never stop learning.
+> The journey matters as much as the destination.
 <!--QUOTE_END-->
 
 Languages and Tools
