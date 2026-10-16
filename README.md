@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> The journey matters as much as the destination.
+> Be better than you were yesterday.
 <!--QUOTE_END-->
 
 Languages and Tools
