@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Be better than you were yesterday.
+> Dreams don't work unless you do.
 <!--QUOTE_END-->
 
 Languages and Tools
