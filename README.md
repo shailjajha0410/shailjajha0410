@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Dreams don't work unless you do.
+> Work hard in silence, let success make the noise.
 <!--QUOTE_END-->
 
 Languages and Tools
