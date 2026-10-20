@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Keep moving forward.
+> Discipline beats motivation.
 <!--QUOTE_END-->
 
 Languages and Tools
