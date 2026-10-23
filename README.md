@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Every day is a fresh start.
+> Discipline beats motivation.
 <!--QUOTE_END-->
 
 Languages and Tools
