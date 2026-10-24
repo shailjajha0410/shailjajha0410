@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Discipline beats motivation.
+> Work hard in silence, let success make the noise.
 <!--QUOTE_END-->
 
 Languages and Tools
