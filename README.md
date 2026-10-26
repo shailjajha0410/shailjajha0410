@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> You are capable of amazing things.
+> Great things take time.
 <!--QUOTE_END-->
 
 Languages and Tools
