@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Great things take time.
+> You don't have to be perfect to start.
 <!--QUOTE_END-->
 
 Languages and Tools
