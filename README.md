@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Believe you can and you're halfway there.
+> You are capable of amazing things.
 <!--QUOTE_END-->
 
 Languages and Tools
