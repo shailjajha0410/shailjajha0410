@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> You are capable of amazing things.
+> The only limit is the one you set yourself.
 <!--QUOTE_END-->
 
 Languages and Tools
