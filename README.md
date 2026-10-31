@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> The only limit is the one you set yourself.
+> Success starts with discipline.
 <!--QUOTE_END-->
 
 Languages and Tools
