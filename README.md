@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Success starts with discipline.
+> Difficult roads often lead to beautiful destinations.
 <!--QUOTE_END-->
 
 Languages and Tools
