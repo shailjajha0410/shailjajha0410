@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Difficult roads often lead to beautiful destinations.
+> Success is built when nobody is watching.
 <!--QUOTE_END-->
 
 Languages and Tools
