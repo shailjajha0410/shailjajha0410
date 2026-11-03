@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Success is built when nobody is watching.
+> Success is the sum of small efforts repeated daily.
 <!--QUOTE_END-->
 
 Languages and Tools
