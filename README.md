@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Success is the sum of small efforts repeated daily.
+> One day or day one. You decide.
 <!--QUOTE_END-->
 
 Languages and Tools
