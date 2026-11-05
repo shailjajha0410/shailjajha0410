@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> One day or day one. You decide.
+> Make today count.
 <!--QUOTE_END-->
 
 Languages and Tools
