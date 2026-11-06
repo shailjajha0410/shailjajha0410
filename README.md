@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Make today count.
+> Discipline beats motivation.
 <!--QUOTE_END-->
 
 Languages and Tools
