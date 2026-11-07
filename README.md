@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Discipline beats motivation.
+> Keep learning. Keep growing.
 <!--QUOTE_END-->
 
 Languages and Tools
