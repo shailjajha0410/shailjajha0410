@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Keep learning. Keep growing.
+> The only limit is the one you set yourself.
 <!--QUOTE_END-->
 
 Languages and Tools
