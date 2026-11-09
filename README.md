@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> The only limit is the one you set yourself.
+> Stay patient and trust the process.
 <!--QUOTE_END-->
 
 Languages and Tools
