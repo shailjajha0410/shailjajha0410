@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Stay patient and trust the process.
+> Small progress is still progress.
 <!--QUOTE_END-->
 
 Languages and Tools
