@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Small progress is still progress.
+> The journey matters as much as the destination.
 <!--QUOTE_END-->
 
 Languages and Tools
