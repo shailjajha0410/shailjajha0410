@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> The journey matters as much as the destination.
+> You become what you repeatedly do.
 <!--QUOTE_END-->
 
 Languages and Tools
