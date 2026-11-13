@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> You become what you repeatedly do.
+> The harder you work, the luckier you get.
 <!--QUOTE_END-->
 
 Languages and Tools
