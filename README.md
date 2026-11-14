@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> The harder you work, the luckier you get.
+> Success begins with self-belief.
 <!--QUOTE_END-->
 
 Languages and Tools
