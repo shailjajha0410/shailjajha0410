@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Success begins with self-belief.
+> Start where you are. Use what you have.
 <!--QUOTE_END-->
 
 Languages and Tools
