@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Start where you are. Use what you have.
+> Nothing changes if nothing changes.
 <!--QUOTE_END-->
 
 Languages and Tools
