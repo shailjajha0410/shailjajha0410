@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Nothing changes if nothing changes.
+> You become what you repeatedly do.
 <!--QUOTE_END-->
 
 Languages and Tools
