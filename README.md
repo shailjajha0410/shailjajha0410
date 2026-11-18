@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> You become what you repeatedly do.
+> Done is better than perfect.
 <!--QUOTE_END-->
 
 Languages and Tools
