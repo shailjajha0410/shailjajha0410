@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Done is better than perfect.
+> Every day is a fresh start.
 <!--QUOTE_END-->
 
 Languages and Tools
