@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Every day is a fresh start.
+> Small progress is still progress.
 <!--QUOTE_END-->
 
 Languages and Tools
