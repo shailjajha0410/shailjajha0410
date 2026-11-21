@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Small progress is still progress.
+> Your only competition is who you were yesterday.
 <!--QUOTE_END-->
 
 Languages and Tools
