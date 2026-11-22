@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Your only competition is who you were yesterday.
+> Keep moving forward.
 <!--QUOTE_END-->
 
 Languages and Tools
