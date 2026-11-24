@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Never stop learning.
+> Small progress is still progress.
 <!--QUOTE_END-->
 
 Languages and Tools
