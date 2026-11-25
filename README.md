@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Small progress is still progress.
+> Great things take time.
 <!--QUOTE_END-->
 
 Languages and Tools
