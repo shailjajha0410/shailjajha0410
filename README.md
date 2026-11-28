@@ -8,7 +8,7 @@
 
 <!--QUOTE_START-->
 
-> Believe you can and you're halfway there.
+> Difficult roads often lead to beautiful destinations.
 <!--QUOTE_END-->
 
 Languages and Tools
